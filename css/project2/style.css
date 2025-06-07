@@ -19,14 +19,14 @@ main,body{
 .nav{
     height: 60px;
     width: 100%;
-    background-color: aqua;
+    /* background-color: aqua; */
     display: flex;
     align-items: center;
     justify-content: flex-end;
     gap: 20px;
     padding: 20px;
     font-family:"Montserrat", sans-serif;
-    font-weight: 100;
+    /* font-weight: 100; */
 }
 .nav i{
     padding: 10px;
@@ -36,7 +36,7 @@ main,body{
     
 }
 .center{
-    background-color: blue;
+    /* background-color: blue; */
     font-size: 60px ;
     padding: 60px 40px;
     font-family: "Montserrat",sans-serif;
@@ -45,29 +45,30 @@ main,body{
     
     height:auto;
     /* padding-bottom: 100px; */
-    padding: 40px;
+    padding: 20px 40px;
     line-height: 1.5;
     font-size: 16px;
-    background-color: brown;
+    /* background-color: brown; */
     display: flex;
     justify-content:space-between
     
 }
 .left{
-    background-color: blanchedalmond;
+    /* background-color: blanchedalmond; */
 }
 .right{
     display: flex;
     flex-direction: column;
     gap: 20px;
     padding: 10px;
-    background-color: aqua;
+    /* background-color: aqua; */
     width: 200px;
 }
 .right h4{
     /* gap: 40px; */
-    border-top: solid black;
+    border-top: solid black 1px;
     display: flex;
+    font-weight: 500;
     justify-content: space-between;
 
 }
@@ -78,4 +79,10 @@ main,body{
     i{
         display: initial;
     }
+}
+.bottom{
+    background-image: url(https://images.unsplash.com/photo-1748540609681-819e7f4c3ff6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    height:300px;
+    background-position: center;
 }
