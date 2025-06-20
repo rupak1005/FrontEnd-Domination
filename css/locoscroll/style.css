@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "PP Woodland";
+}
+@font-face {
+    font-family: 'PP Woodland';
+    src: 
+         url('https://eu-central.storage.cloudconvert.com/tasks/c3ba5912-b623-44e6-8aa4-d4e7ef200474/PPWoodland-Regular.otf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250620%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250620T143839Z&X-Amz-Expires=86400&X-Amz-Signature=4f6ca7b8b54aa23738216b86a7b9bdc7019783521eae3ec81e5c6f10995935f0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22PPWoodland-Regular.otf%22&response-content-type=font%2Fotf&x-id=GetObject') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#page1{
+    height: 100vh;
+    width: 100%;
+    background-color: #BCBFA6;
+}
+#page2{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #4D5840;
+    padding: 5vw;
+    
+}
+#page2 h1{
+    font-size: 7vw;
+    text-align: center;
+    color: #3d633d;
+    /* font-family: pp woodland; */
+    font-weight: 500;
+    letter-spacing: 1;
+
+}
+#page3{
+    height: 100vh;
+    width: 100%;
+    background-color: #BCBFA6;
+}
