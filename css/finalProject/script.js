@@ -1,4 +1,5 @@
-var tl = gsap.timeline();
+function loader() {
+  var tl = gsap.timeline();
 tl.from(".line h1", {
   y: 150,
   stagger: 0.25,
@@ -26,7 +27,7 @@ tl.to('.line h2',{
 tl.to("#loader", {
   opacity: 0,
   duration: 0.2,
-  delay: 4,
+  delay: 3,
 });
 tl.from("#page1",{
     delay:0.2,
@@ -38,3 +39,15 @@ tl.from("#page1",{
 tl.to("#loader",{
     display:"none"
 })
+
+}
+loader()
+
+
+document.addEventListener("mousemove",(dets)=>{
+  gsap.to("#crsr",{
+    left:dets.x,
+    top:dets.y
+  })
+})
+Shery.makeMagnet("#nav-part2 h4,svg");
