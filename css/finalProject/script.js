@@ -27,7 +27,7 @@ tl.to('.line h2',{
 tl.to("#loader", {
   opacity: 0,
   duration: 0.2,
-  delay: 3,
+  delay: 0,
 });
 tl.from("#page1",{
     delay:0.2,
@@ -36,18 +36,20 @@ tl.from("#page1",{
     duration:0.5,
     ease:Power4
 })
+tl.from("#nav",{
+  opacity:0
+})
 tl.from(".hero h1",{
-  y:100,
+  y:120,
   stagger:0.2
 })
 tl.to("#loader",{
     display:"none"
 })
-
-
 }
 loader()
 
+function cursorAnimation(){
 
 document.addEventListener("mousemove",(dets)=>{
   gsap.to("#crsr",{
@@ -56,3 +58,5 @@ document.addEventListener("mousemove",(dets)=>{
   })
 })
 Shery.makeMagnet("#nav-part2 h4,svg");
+}
+cursorAnimation()
