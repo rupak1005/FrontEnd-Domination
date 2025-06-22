@@ -36,9 +36,14 @@ tl.from("#page1",{
     duration:0.5,
     ease:Power4
 })
+tl.from(".hero h1",{
+  y:100,
+  stagger:0.2
+})
 tl.to("#loader",{
     display:"none"
 })
+
 
 }
 loader()
