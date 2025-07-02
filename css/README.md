@@ -96,19 +96,16 @@ This section introduces you to practical CSS projects. You'll apply your CSS ski
 
 ![screencapture-file-D-Sheryians-FrontEnd-Domination-CSS-Projects-Elevate-Your-Design-Skills-project-1-practice-index-html-2023-11-29-21_02_51](https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/assets/88204554/fbf1ed7f-b35c-4524-8e54-a76decb61f81)
 
--Source Code link : https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/tree/main/CSS%20Projects%20-%20Elevate%20Your%20Design%20Skills/Project%201
 
 -Project 2 Design link : https://pin.it/5jlUvw1
 
 ![screencapture-file-D-Sheryians-FrontEnd-Domination-CSS-Projects-Elevate-Your-Design-Skills-project-2-cotton-weave-index-html-2023-11-29-21_03_03](https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/assets/88204554/3f607285-cda4-467a-9512-5938eca2a37b)
 
--Source Code link : https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/tree/main/CSS%20Projects%20-%20Elevate%20Your%20Design%20Skills/project%202%20cotton%20weave
 
 -Project 3 Design link : https://pin.it/6tU5NgO
 
 ![screencapture-file-D-Sheryians-FrontEnd-Domination-CSS-Projects-Elevate-Your-Design-Skills-project-3-trendline-index-html-2023-11-29-21_03_30](https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/assets/88204554/5ecef9b3-65ce-43e0-a691-fdd91bdc358a)
 
--Source Code link : https://github.com/Lucky-Kashyap/Front-End-Domination-Create-Anything-with-Code/tree/main/CSS%20Projects%20-%20Elevate%20Your%20Design%20Skills/project%203%20trendline
 
 ### Responsive Web Development
 
